@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Administrador_De_Vehiculos/src"/>
+	<classpathentry kind="src" path="Biblioteca/src"/>
+	<classpathentry kind="src" path="Calculadora_de_Vectores/src"/>
+	<classpathentry kind="src" path="Calcular_Notas/src"/>
+	<classpathentry kind="src" path="Catalogo_Series_Peliculas/src"/>
+	<classpathentry kind="src" path="Concentrese/src"/>
+	<classpathentry kind="src" path="ListasEnlazadas/src"/>
+	<classpathentry kind="src" path="Poema_File/src"/>
+	<classpathentry kind="lib" path="Biblioteca/dist/Projecto_1_II.jar"/>
+	<classpathentry kind="output" path="Administrador_De_Vehiculos/build/classes"/>
+</classpath>
